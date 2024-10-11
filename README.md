@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santhosh2kumar
-- 👀 I’m interested in data science,web development,data base
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in java ,web development,data base
+- 🌱 I’m currently learning java 
 
 
 <!---
